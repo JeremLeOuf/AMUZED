@@ -1,12 +1,12 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](https://github.com/JeremLeOuf/AMUZED/blob/root/README.md)
 * [Goals & KPIs](goals-and-kpis.md)
 
 ## Infrastructure
 
 * [Blockchain](infrastructure/blockchain.md)
-* [AMUZED Wallet](infrastructure/amuzed-wallet/README.md)
+* [AMUZED Wallet](infrastructure/amuzed-wallet/)
   * [Currency - ETH](infrastructure/amuzed-wallet/currency-eth.md)
   * [Ramp-On](infrastructure/amuzed-wallet/ramp-on.md)
   * [MetaMask](infrastructure/amuzed-wallet/metamask.md)
@@ -16,10 +16,10 @@
 
 ## Game Setup
 
-* [Music  Artists](game-setup/music-artists.md)
-* [Users](game-setup/users/README.md)
+* [Music Artists](game-setup/music-artists.md)
+* [Users](game-setup/users/)
   * [Achievements](game-setup/users/achievements.md)
-* [Game Assets](game-setup/game-assets/README.md)
+* [Game Assets](game-setup/game-assets/)
   * [Common Tokens](game-setup/game-assets/common-tokens.md)
   * [Glass Tokens](game-setup/game-assets/glass-tokens.md)
   * [Gold Tokens](game-setup/game-assets/gold-tokens.md)
@@ -33,7 +33,7 @@
 * [The Game Explained](gameplay/the-game-explained.md)
 * [Tournaments](gameplay/tournaments.md)
 * [Lineup](gameplay/lineup.md)
-* [Score](gameplay/score/README.md)
+* [Score](gameplay/score/)
   * [Experience Bonus](gameplay/score/experience-bonus.md)
   * [Rarity Bonus](gameplay/score/rarity-bonus.md)
   * [Headliner Bonus](gameplay/score/headliner-bonus.md)
@@ -43,7 +43,7 @@
 
 ## Marketplace
 
-* [Primary Marketplace](marketplace/primary-marketplace/README.md)
+* [Primary Marketplace](marketplace/primary-marketplace/)
   * [Auction Process](marketplace/primary-marketplace/auction-process.md)
 * [Secondary Marketplace](marketplace/secondary-marketplace.md)
 
